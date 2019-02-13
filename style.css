@@ -1,0 +1,74 @@
+/* Właściwości ogólne strony */
+.social {					
+	margin 0 auto;
+	width: 500px;
+	text-align: center;
+	padding: 50px;
+	background-color: lightblue;
+
+}
+
+/* Właściwości ogólne przycisków */
+.icon-btn {
+	height: 75px;
+	width: 75px;
+	border: 0px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	cursor: pointer;
+	font-size: 40px;
+	line-height: 75px;
+}
+
+/* Właściwości unikatowe przycisków */
+
+.twitter {
+	color: #4099FF;
+}
+
+.twitter:hover {
+	background-color: #4099FF;
+	color: #FFFFFF;	
+	transform: scale(1.10);
+}
+
+.facebook {
+	color: #3B5998;
+}
+
+.facebook:hover {
+	background-color: #3B5998;
+	color: #FFFFFF;	
+	transform: scale(1.10);
+}
+
+.google-plus {
+	color: #DB5A3C;
+} 
+
+.google-plus:hover {
+	background-color: #DB5A3C;
+	color: #FFFFFF;	
+	transform: scale(1.10);
+}
+
+
+.instagram {
+	color: #5C3D2E;
+}
+
+.instagram:hover {
+	background-color: #5C3D2E;
+	color: #FFFFFF;	
+	transform: scale(1.10);
+}
+
+.github {
+	color: #4183C4;
+}
+
+.github:hover {
+	background-color: #4183C4;
+	color: #FFFFFF;	
+	transform: scale(1.10);
+}
